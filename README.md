@@ -1,2 +1,2 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
+# Fruta & Fruto
+Aprofundando os conhecimentos de CSS/HTML
